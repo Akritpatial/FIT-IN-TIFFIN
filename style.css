@@ -666,7 +666,7 @@ input{
 .pricecart{
     width:300x;
     height:fit-content;
-    background-color: #f66b39;
+/*     background-color: #f66b39; */
     font-size: 25px;
     display: flex;
     justify-content: space-around;
@@ -676,7 +676,7 @@ input{
 .pricecart2{
     width:300px;
     height:fit-content;
-    background-color: #f66b39;
+/*     background-color: #f66b39; */
     font-size: 25px;
     display: flex;
     justify-content: space-around;
