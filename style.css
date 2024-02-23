@@ -345,7 +345,7 @@ input{
 }
 .category2 .list-items .card-list{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(4,1fr);
 }
 .category2 .card-list .card{
     width: 260px;
