@@ -664,6 +664,7 @@ input{
 
 
 .pricecart{
+    margin-top:30px;
     width:300x;
     height:fit-content;
 /*     background-color: #f66b39; */
@@ -674,6 +675,7 @@ input{
 
 
 .pricecart2{
+    margin-top:30px;
     width:300px;
     height:fit-content;
 /*     background-color: #f66b39; */
