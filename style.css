@@ -348,8 +348,8 @@ input{
     grid-template-columns: repeat(3,1fr);
 }
 .category2 .card-list .card{
-    width: 330px;
-    height:330px;
+    width: 260px;
+    height:340px;
     display: block;
     border-radius: 10px;
     position: relative;
